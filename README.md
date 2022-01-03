@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Use this app to see how user input, API calls, and data listing can be handled in React. React Refs are also used to manipulate the list as images are loaded in.
 ### Private Notion Memo
-https://www.notion.so/spagettys/Class-Based-Components-Lifecycle-Methods-283ebca6a2a24375a3f88802e19a2459
+https://www.notion.so/spagettys/User-Input-API-Calls-Listing-Data-b5d5a8eab38645ac870f0a33b6f2b248
 
 ## Available Scripts
 
